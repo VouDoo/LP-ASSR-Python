@@ -1,0 +1,26 @@
+Datetime: 2016-12-31 17:29
+Root Directory: X:/LP ASSR/Python/Fichiers/Exercice_4/TestDir
+Lines start with: p
+
+<FilePath> X:\LP ASSR\Python\Fichiers\Exercice_4\TestDir\citations.txt
+<Line 6> Platon : "L’homme est la mesure de toute chose"
+<Line 15> Pascal : "L’homme n’est qu’un roseau, le plus faible des roseaux, mais c’est un roseau pensant"
+
+<FilePath> X:\LP ASSR\Python\Fichiers\Exercice_4\TestDir\TP2_Les_fichiers.odt
+<Error> 'charmap' codec can't decode byte 0x8f in position 466: character maps to <undefined>
+
+<FilePath> X:\LP ASSR\Python\Fichiers\Exercice_4\TestDir\citations\citationsPartie1.txt
+<Line 6> Platon : "L’homme est la mesure de toute chose"
+
+<FilePath> X:\LP ASSR\Python\Fichiers\Exercice_4\TestDir\citations\citationsPartie2.txt
+<Line 5> Pascal : "L’homme n’est qu’un roseau, le plus faible des roseaux, mais c’est un roseau pensant"
+
+<FilePath> X:\LP ASSR\Python\Fichiers\Exercice_4\TestDir\citations\copie_citations\copie_citationsPartie1.txt
+<Line 6> Platon : "L’homme est la mesure de toute chose"
+
+<FilePath> X:\LP ASSR\Python\Fichiers\Exercice_4\TestDir\citations\copie_citations\copie_citationsPartie2.txt
+<Line 5> Pascal : "L’homme n’est qu’un roseau, le plus faible des roseaux, mais c’est un roseau pensant"
+
+<FilePath> X:\LP ASSR\Python\Fichiers\Exercice_4\TestDir\images\image.png
+<Error> 'charmap' codec can't decode byte 0x8f in position 44: character maps to <undefined>
+

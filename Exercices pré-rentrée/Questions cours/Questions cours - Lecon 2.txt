@@ -1,0 +1,48 @@
+##################################################
+############ QUESTIONS PYTHON LECON 2 ############
+##################################################
+
+
+### Lecon 2 - Les structures conditionnelles
+
+
+# Quelle est la syntaxe de l'alternative (if … elif … else) ?
+
+    if <condition>:
+        <instructions...>
+    elif <condition>:
+        <instructions...>
+    else:
+        <instructions...>
+
+# Qu'est-ce que l'indentation ?
+
+    L'indentation permet de differencier les instructions des en-tetes
+
+# Quels sont les opérateurs de comparaison ?
+
+    |    Condition          |   Opérateur   |
+    |-----------------------|---------------|
+    | Égal                  |       ==      |
+    | Différent             |       !=      |
+    | Strictement supérieur |       >       |
+    | Strictement inférieur |       <       |
+    | Supérieur ou égal     |       >=      |
+    | Inférieur ou égal     |       <=      |
+
+# Qu'est-ce que fait l'opérateur « not » ?
+
+    Il permet de prendre la negation de la condition
+
+# Quels sont les connecteurs logiques ?
+
+    | Connecteurs logiques  |  Opérateur    |
+    |-----------------------|---------------|
+    | Le ET logique         |     and       |
+    | Le OU logique         |     or        |
+    | La négation NON       |     not       |
+
+# Quelle est la différence entre = et == ?
+
+    "="     -> Affectation d'une valeur a une variable
+    "=="    -> Test d'egalite entres deux termes 

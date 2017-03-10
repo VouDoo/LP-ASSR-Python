@@ -1,0 +1,39 @@
+##################################################
+############ QUESTIONS PYTHON LECON 3 ############
+##################################################
+
+
+### Lecon 3 - Les fonctions
+
+
+# Quelle est la syntaxe de définition d'une fonction ?
+
+    Exemple de fonction (retour d'une valeur) :
+
+        def nomFonction(argument1, argument2, ...):
+            <instructions...>
+            return <valeur>
+
+    Exemple de procedure (pas de retour) (void) :
+
+        def nomFonction(argument1, argument2, ...):
+            <instructions...>
+
+# Définissez le plus complètement possible les rôles du mot-clé return.
+
+    Le mot clé return retourne le résultat où la fonction a été appelée. 
+    Ce resultat peut etre stocke dans une variable ou directement utilise.
+
+# Est-ce que le corps d'une fonction qui ne retourne pas de valeur peut contenir le mot-clé return ?
+
+    Oui, Le mot-clé return interrompt seulement l'exécution d'une fonction
+
+    Exemple de fonction (retour d'une valeur) :
+
+        def nomFonction(argument1, argument2, ...):
+            <instructions...>
+            return
+
+# Lors de la définition d'une fonction qui effectue un calcul, vaut-il mieux afficher le résultat dans la fonction ou le retourner à la fonction appelante ? Justifiez.
+
+    Il vaut mieux le retourner ala fonction appelante afin d'operer sur le resultat.

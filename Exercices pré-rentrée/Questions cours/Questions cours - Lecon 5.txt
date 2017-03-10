@@ -1,0 +1,68 @@
+##################################################
+############ QUESTIONS PYTHON LECON 5 ############
+##################################################
+
+
+### Lecon 5 - Les listes
+
+
+# Quels types d'éléments une liste peut-elle contenir ? Détaillez votre réponse.
+
+     Une liste peut contenir n'importe quel objet.
+     Elle peut contenir un nombre entier, un nombre decimal, une chaine de caracteres ou meme une liste.
+     
+
+# Une liste peut-elle contenir une autre liste ?
+
+    Oui, une liste peut en contenir une autre
+
+# Quelle est la différence entre append et extend ?
+
+    Effet de la fonction "extend"
+
+    >>> li = ['a', 'b', 'c']
+    >>> li.extend(['d', 'e', 'f']) 
+    >>> li
+    ['a', 'b', 'c', 'd', 'e', 'f']
+    >>> len(li)
+    6
+    >>> li[-1]
+    'f'
+
+    Effet de la fonction "append"
+
+    >>> li = ['a', 'b', 'c']
+    >>> li.append(['d', 'e', 'f'])
+    >>> li
+    ['a', 'b', 'c', ['d', 'e', 'f']]
+    >>> len(li)
+    4
+    >>> li[-1]
+    ['d', 'e', 'f']
+
+# On peut créer des parties de liste en utilisant les : (deux points). Décrire le plus complètement possible la syntaxe utilisée.
+
+    Ce sont des raccourcis pour le découpage
+
+    >>> li
+    ['a', 'b', 'mpilgrim', 'z', 'example']
+    >>> li[:3]
+    ['a', 'b', 'mpilgrim']
+    >>> li[3:]
+    ['z', 'example']
+    >>> li[:]
+    ['a', 'b', 'mpilgrim', 'z', 'example']
+
+# Peut-on parcourir une liste sans faire référence aux index de ses éléments ?
+
+    On peut utiliser une valeur de la sorte
+
+    >>> li
+    ['a', 'b', 'new', 'mpilgrim', 'z', 'example', 'new', 'two', 'elements']
+    >>> li.index("example") 1
+    5
+    >>> li.index("new") 
+
+# Quelle(s) difficulté(s) peut-on rencontrer quand on trie une liste ?
+
+    Trier une liste peut s'avérer compliqué lorsque ses éléments sont de natures différentes.

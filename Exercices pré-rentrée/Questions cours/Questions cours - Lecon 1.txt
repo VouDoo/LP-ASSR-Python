@@ -1,0 +1,60 @@
+##################################################
+############ QUESTIONS PYTHON LECON 1 ############
+##################################################
+
+
+### Lecon 1 - Afficher, saisir, variables, calculs
+
+
+# Quelle est la syntaxe de la fonction print ?
+
+    print(variable)
+
+# Qu'est-ce qu'une affectation ?
+
+    C'est l'attribution d'une valeur pour une variable
+
+# Quels sont les 3 types de variables ?
+
+    Integer (int) : nombre entier
+    Float (float) : nombre decimal
+    String (str) : chaine de carateres
+
+# Quelles sont les 7 opérations sur les nombres ?
+
+    L'addition                  +
+    La soustraction             -
+    La multiplication           *
+    La puissance                **
+    Le quotient réel            /
+    Le quotient entier          //
+    Le modulo                   %
+
+# Comment concaténer 2 chaînes de caractères ?
+
+    La concaténation utilise le symbole "+"
+    Exemple :
+        chaineFinale = chaine1 + chaine2
+
+# Comment répéter une chaîne de caractères ?
+
+    La répétition utilise le symbole "*"
+    Exemple :
+        chaineFinale = chaine1 * 5
+
+# Qu'est-ce qu'un module en python, comment s'en sert-on ? Donnez au moins trois exemples.
+
+    un module est un fichier qui contient des fonctions importables.
+    Pour importer un module, il faut utiliser la fonction suivante :
+        import ModuleAImporter
+    Pour utiliser les fonction du module, on procede de la maniere suivante :
+        module.fonction()
+    Exemple 1 :
+        import math
+        print(math.pi)
+    Exemple 2 :
+        from math import sqrt
+        print(sqrt(5))
+    Exemple 3 :
+        from math import *
+        print(pow(5))

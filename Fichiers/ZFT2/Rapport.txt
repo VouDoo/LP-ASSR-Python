@@ -1,0 +1,23 @@
+Date: 09/12/16 08:46
+Dossier: ZFT2
+
+Fichier: exo3File1.txt
+login : toto fichier 1 ligne 2
+login 123456 fichier 1 ligne 7
+
+Fichier: Donnees-scalaires.pl
+
+Fichier: exo3File3.txt
+login 123456 fichier 3 ligne 4
+login : toto fichier 3 ligne 11
+login 123456 fichier 3 ligne 18
+login 123456 fichier 3 ligne 20
+
+Fichier: exo3File2.txt
+login 123456 fichier 2 ligne 1
+login : toto fichier 2 ligne 5
+login 123456 fichier 2 ligne 12
+login 123456 fichier 2 ligne 14
+
+Fichier: Rapport.txt
+

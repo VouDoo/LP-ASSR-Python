@@ -1,0 +1,14 @@
+login 123456 fichier 2 ligne 1
+toto va à la plage
+toto va à la plage
+toto va à la plage
+login : toto fichier 2 ligne 5
+toto va à la plage
+toto va à la plage
+toto va à la plage
+toto va à la plage
+toto va à la plage
+toto va à la plage
+login 123456 fichier 2 ligne 12
+plage login
+login 123456 fichier 2 ligne 14
